@@ -1,3 +1,1 @@
-dsfişifddf
-dmfşfdflşsms
-sdllmdlsadlç
+git push --force origin main
